@@ -44,7 +44,7 @@ Item {
     height: width
     from: 10
     to: 30
-    stepSize: 0.5
+    stepSize: 0.1
     value: 21
     snapMode: QQC2.Dial.SnapAlways
     background: Item {}
