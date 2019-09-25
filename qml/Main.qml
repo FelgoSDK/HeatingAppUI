@@ -52,6 +52,7 @@ App {
 
       HeatDial {
         anchors.centerIn: parent
+        scale: parent.width / width * 0.7
       }
 
       Row {
